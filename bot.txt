@@ -1,0 +1,6 @@
+# Add your own game account details through the website panel.
+uid=
+password=
+nick=TANBIR YT
+region=BD
+autostart=0
